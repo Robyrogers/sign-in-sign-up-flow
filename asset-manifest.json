@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/sign-in-sign-up-flow/static/js/main.f4cd1e36.chunk.js",
+    "main.js.map": "/sign-in-sign-up-flow/static/js/main.f4cd1e36.chunk.js.map",
+    "runtime~main.js": "/sign-in-sign-up-flow/static/js/runtime~main.0562f2a0.js",
+    "runtime~main.js.map": "/sign-in-sign-up-flow/static/js/runtime~main.0562f2a0.js.map",
+    "static/js/2.91f9978f.chunk.js": "/sign-in-sign-up-flow/static/js/2.91f9978f.chunk.js",
+    "static/js/2.91f9978f.chunk.js.map": "/sign-in-sign-up-flow/static/js/2.91f9978f.chunk.js.map",
+    "index.html": "/sign-in-sign-up-flow/index.html",
+    "precache-manifest.9b58c1ef4ffcd74fdad53f60476d31a8.js": "/sign-in-sign-up-flow/precache-manifest.9b58c1ef4ffcd74fdad53f60476d31a8.js",
+    "service-worker.js": "/sign-in-sign-up-flow/service-worker.js",
+    "static/media/Sokina_Smile.svg": "/sign-in-sign-up-flow/static/media/Sokina_Smile.688af46b.svg",
+    "static/media/powerupsokina.svg": "/sign-in-sign-up-flow/static/media/powerupsokina.e364eb0d.svg",
+    "static/media/shobhobe-logo.svg": "/sign-in-sign-up-flow/static/media/shobhobe-logo.a951b0aa.svg"
+  }
+}
